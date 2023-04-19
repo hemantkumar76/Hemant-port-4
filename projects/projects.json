@@ -1,0 +1,16 @@
+[ 
+    
+    
+    {
+        "id": 1,
+        "name": "404",
+        "desc": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+        "image": "https://i.imgur.com/bQxQ6Yk.png",
+        "links": {
+            "view": "https://www.mrkrishna.me/KrishnaAgarwal/projects/index.html"        
+        }
+    }
+
+    
+    
+]
